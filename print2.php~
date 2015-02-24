@@ -1,0 +1,6 @@
+<?php
+$name1 = "PHP";
+$name2 = "java";
+$name3 = "Ruby";
+
+?>
